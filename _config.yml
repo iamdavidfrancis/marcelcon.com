@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marcelcon.com" # the base hostname & protocol for your site
 
-date: <del>July 3 - 5, 2020</del> Postponed!
+date: <del>July 3 - 5, 2020</del><br />Postponed!
 location: Boston, MA 
 
 # formspree: https://formspree.io/hello.world@gmail.com
