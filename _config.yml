@@ -1,10 +1,10 @@
-title: MarcelCon 2020
+title: MarcelCon
 description: > # this means to ignore newlines until "baseurl:"
   The Event of a Decade
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marcelcon.com" # the base hostname & protocol for your site
 
-date: July 3 - 5, 2020
+date: <del>July 3 - 5, 2020</del> Postponed!
 location: Boston, MA 
 
 # formspree: https://formspree.io/hello.world@gmail.com
